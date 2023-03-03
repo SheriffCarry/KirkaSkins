@@ -1,0 +1,24 @@
+- Awesome
+- Camouflage
+- Cargo
+- Forest
+- Friendly
+- Heart
+- Latern
+- Metallic
+- Military
+- Pale
+- Picea
+- Pineapple
+- Psycho
+- Rainbow
+- SCAR
+- Sakura
+- Scarlet
+- Shiny
+- Spicy
+- Stripes
+- Tide
+- Universe
+- Void Scar
+- Volcano
