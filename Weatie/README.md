@@ -1,0 +1,24 @@
+- Alien
+- Aztek
+- Bubblegum
+- Curry
+- Evening
+- Fading Waves
+- Glacial
+- Grass
+- Iron
+- Isolation
+- Jap
+- Neon
+- Noir
+- Nuclear Waste
+- Swamp
+- Teflon
+- Toxic
+- Try
+- Violet
+- Void Weatie
+- Wacky
+- Weatie
+- Winter
+- Yellow Camo
