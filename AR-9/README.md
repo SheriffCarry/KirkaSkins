@@ -1,5 +1,5 @@
-- AR-9
-- Admiral
+- **AR-9**
+- **Admiral**
 - Brown
 - Carbon Fade
 - Cloudy
