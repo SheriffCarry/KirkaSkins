@@ -1,0 +1,27 @@
+- Beet
+- Billion
+- Bloody
+- Clover
+- Crystal
+- Dandelion
+- Donut
+- Fire
+- Land
+- Lemon
+- MAC-10
+- Malachite
+- Marbled
+- Maxwell
+- Milo
+- Molten Core
+- Orchid
+- Red Reaper
+- Retrowave
+- S4TANSITO
+- Saint Patrick
+- Sleep
+- Striped
+- Strips
+- Tingey
+- Toy
+- Void Mac10
