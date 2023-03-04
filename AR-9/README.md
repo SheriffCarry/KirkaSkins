@@ -14,10 +14,10 @@
 - LEO
 - Lightning
 - Master
-- #### Moira
-- #### Obsidian
-- #### Pegas
-- #### Sky
-- #### Spectacular
-- #### Spilled
-- #### Void Ar9
+- Moira
+- Obsidian
+- Pegas
+- Sky
+- Spectacular
+- Spilled
+- Void Ar9
