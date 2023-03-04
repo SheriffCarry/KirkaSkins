@@ -3,9 +3,9 @@
 - Brown
 - Carbon Fade
 - Cloudy
-- #### Contrast
-- #### Crazy
-- #### Cyan
+- Contrast
+- Crazy
+- Cyan
 - #### Cyberpunk
 - #### Eva
 - #### Fabric
