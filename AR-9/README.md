@@ -6,11 +6,11 @@
 - Contrast
 - Crazy
 - Cyan
-- #### Cyberpunk
-- #### Eva
-- #### Fabric
-- #### Greg
-- #### Hannah
+- Cyberpunk
+- Eva
+- Fabric
+- Greg
+- Hannah
 - #### LEO
 - #### Lightning
 - #### Master
