@@ -1,23 +1,23 @@
-- **AR-9**
-- **Admiral**
+- AR-9
+- Admiral
 - Brown
 - Carbon Fade
 - Cloudy
-- Contrast
-- Crazy
-- Cyan
-- Cyberpunk
-- Eva
-- Fabric
-- Greg
-- Hannah
-- LEO
-- Lightning
-- Master
-- Moira
-- Obsidian
-- Pegas
-- Sky
-- Spectacular
-- Spilled
-- Void Ar9
+- #### Contrast
+- #### Crazy
+- #### Cyan
+- #### Cyberpunk
+- #### Eva
+- #### Fabric
+- #### Greg
+- #### Hannah
+- #### LEO
+- #### Lightning
+- #### Master
+- #### Moira
+- #### Obsidian
+- #### Pegas
+- #### Sky
+- #### Spectacular
+- #### Spilled
+- #### Void Ar9
