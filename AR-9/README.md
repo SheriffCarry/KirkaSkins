@@ -11,9 +11,9 @@
 - Fabric
 - Greg
 - Hannah
-- #### LEO
-- #### Lightning
-- #### Master
+- LEO
+- Lightning
+- Master
 - #### Moira
 - #### Obsidian
 - #### Pegas
