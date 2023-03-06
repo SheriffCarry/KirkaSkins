@@ -2,8 +2,8 @@
 - AR-9
 - Bayonet
 - LAR
-- MAC-10
 - M60
+- MAC-10
 - Tomahawk
 
 More will be done soon I guess
