@@ -1,25 +1,25 @@
-Bay
-Billion
-Bushido
-Candy
-Celebrate
-Cheesy
-Dissident
-Heartbeat
-Hearted
-Ice Cold
-Kiss
-Majestic
-Mossy
-New Year
-Orchid
-Ostern
-P-40
-Present
-Saint Patrick
-Shark
-Sunflower
-Void Shark
-Waveform
-Widow
-Yule
+- Bay
+- Billion
+- Bushido
+- Candy
+- Celebrate
+- Cheesy
+- Dissident
+- Heartbeat
+- Hearted
+- Ice Cold
+- Kiss
+- Majestic
+- Mossy
+- New Year
+- Orchid
+- Ostern
+- P-40
+- Present
+- Saint Patrick
+- Shark
+- Sunflower
+- Void Shark
+- Waveform
+- Widow
+- Yule
