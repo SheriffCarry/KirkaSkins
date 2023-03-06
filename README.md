@@ -12,5 +12,6 @@ More will be done soon I guess
 - Characters
 - REVOLVER
 - SCAR
+- Shark
 - VITA
 - Weatie
