@@ -2,6 +2,7 @@
 - AR-9
 - Bayonet
 - LAR
+- MAC-10
 - M60
 - Tomahawk
 
@@ -9,7 +10,6 @@ More will be done soon I guess
 
 ## Missing atm
 - Characters
-- MAC-10
 - REVOLVER
 - SCAR
 - VITA
