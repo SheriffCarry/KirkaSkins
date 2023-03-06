@@ -1,5 +1,6 @@
 ## COMPLETED SKINS
 - AR-9
+- Bayonet
 - M60
 - Tomahawk
 
