@@ -1,5 +1,5 @@
 - Beet
-- Billion
+- Billion - ACTUALLY THAT IS A Shark SKIN, BUT XIP FAILED
 - Bloody
 - Clover
 - Crystal
@@ -18,7 +18,7 @@
 - Red Reaper
 - Retrowave
 - S4TANSITO
-- Saint Patrick
+- Saint Patrick - ACTUALLY THAT IS A Shark SKIN, BUT XIP FAILED
 - Sleep
 - Striped
 - Strips
