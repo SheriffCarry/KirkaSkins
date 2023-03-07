@@ -4,13 +4,13 @@
 - LAR
 - M60
 - MAC-10
+- REVOLVER
 - Tomahawk
 
 More will be done soon I guess
 
 ## Missing atm
 - Characters
-- REVOLVER
 - SCAR
 - Shark
 - VITA
