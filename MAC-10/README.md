@@ -14,7 +14,7 @@
 - Maxwell
 - Milo
 - Molten Core
-- Orchid
+- Orchid - ACTUALLY THAT IS A Shark SKIN, BUT XIP FAILED
 - Red Reaper
 - Retrowave
 - S4TANSITO
