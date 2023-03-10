@@ -15,7 +15,7 @@
 - Gilded
 - Globe
 - Gold
-- Green
+- Green - ACTUALLY THAT IS A Shark SKIN, BUT XIP FAILED
 - Hardened
 - Heatwave
 - Hubbard
