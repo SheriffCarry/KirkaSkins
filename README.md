@@ -5,6 +5,7 @@
 - M60
 - MAC-10
 - SCAR
+- Shark
 - REVOLVER
 - Tomahawk
 
@@ -12,6 +13,5 @@ More will be done soon I guess
 
 ## Missing atm
 - Characters
-- Shark
 - VITA
 - Weatie
