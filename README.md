@@ -15,4 +15,3 @@ More will be done soon I guess
 
 ## Missing atm
 - Characters
-- _Tomahawk
