@@ -9,10 +9,10 @@
 - REVOLVER
 - Tomahawk
 - VITA
+- Weatie
 
 More will be done soon I guess
 
 ## Missing atm
 - Characters
-- Weatie
 - _Tomahawk
