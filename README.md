@@ -8,10 +8,10 @@
 - Shark
 - REVOLVER
 - Tomahawk
+- VITA
 
 More will be done soon I guess
 
 ## Missing atm
 - Characters
-- VITA
 - Weatie
