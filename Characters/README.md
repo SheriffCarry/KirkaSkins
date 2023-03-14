@@ -22,6 +22,7 @@
 - Enderman
 - Esto
 - Flo
+- Fortunado
 - Frosty
 - Gingerman
 - Goge
@@ -67,6 +68,7 @@
 - Slime
 - Snowman
 - Snowy
+- Sprout
 - TV
 - Teddy
 - Thalia
