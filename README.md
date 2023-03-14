@@ -1,6 +1,7 @@
 ## COMPLETED SKINS
 - AR-9
 - Bayonet
+- Characters
 - LAR
 - M60
 - MAC-10
@@ -11,8 +12,3 @@
 - VITA
 - Weatie
 - undefined
-
-More will be done soon I guess
-
-## Missing atm
-- Characters
