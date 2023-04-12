@@ -1,4 +1,5 @@
 - Ace
+- Alien Hazard
 - Artic Illusion
 - Atomic
 - Blackout
