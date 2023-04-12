@@ -1,7 +1,9 @@
 - 2022
 - Alex
+- Amelia
 - Aria
 - Aubree
+- Basketcase
 - Beyona
 - Boby
 - Boo
@@ -9,6 +11,7 @@
 - Camilo
 - Carrot
 - Cereals
+- Choco
 - Chocolate
 - Colton
 - Coolas
@@ -24,6 +27,7 @@
 - Flo
 - Fortunado
 - Frosty
+- Ghillie
 - Gingerman
 - Goge
 - Gray
@@ -45,11 +49,13 @@
 - Maria
 - Mariah
 - Maze
+- Melody
 - MemeStarTV
 - Mya
 - Noah
 - Owen
 - Papabear
+- Pastel
 - Payton
 - Peppermint
 - Pigo
