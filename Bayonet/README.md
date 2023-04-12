@@ -16,11 +16,13 @@
 - Lucky
 - Old
 - Or
+- Placate
 - Psychedelic
 - Rebel
 - Retro
 - Shard
 - Spring
+- Sunday
 - Tradition
 - Void Bayonet
 - Wrapping
