@@ -5,6 +5,7 @@
 - Celebrate
 - Cheesy
 - Dissident
+- Egg Hunt
 - Heartbeat
 - Hearted
 - Ice Cold
@@ -15,6 +16,7 @@
 - Orchid
 - Ostern
 - P-40
+- Playdate
 - Present
 - Saint Patrick
 - Shark
