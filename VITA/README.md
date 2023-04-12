@@ -15,7 +15,7 @@
 - Gilded
 - Globe
 - Gold
-- Green - ACTUALLY THAT IS A Shark SKIN, BUT XIP FAILED
+- Green
 - Hardened
 - Heatwave
 - Hubbard
@@ -34,6 +34,7 @@
 - Paques
 - Peachy
 - Pink Camouflage
+- Playmate
 - Polygun
 - RedMoon
 - Reptile
