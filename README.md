@@ -14,3 +14,4 @@
 - undefined
 
 DM Me when you find something missing
+I think I have all tho
