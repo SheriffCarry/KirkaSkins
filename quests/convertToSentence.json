@@ -1,0 +1,16 @@
+{
+    kills: "Get %!a!% kills",
+    killsWithGuns: "Get %!a!% kills with %!w!%",
+    killsInSingleGame: "Get %!a!% kills in a single game",
+    streaks: "Get a %!a!% killstreak",
+    score: "Earn %!a!% score",
+    scoreWithGun: "Earn %!a!% score with %!w!%",
+    scoreInSingleGame: "Earn %!a!% score in a single game",
+    gamesPlayed: "Play %!a!% games",
+    wins: "Win %!a!% games",
+    headshots: "Get %!a!% headshots",
+    headshotsWithGun: "Get %!a!% headshots with %!w!%",
+    headshotsInSingleGame: "Get %!a!% headshots in a single game",
+    solo: "Play %!a!% SOLO games",
+    team: "Play %!a!% TDM games"
+}
