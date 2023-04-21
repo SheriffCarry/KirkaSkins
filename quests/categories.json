@@ -1,0 +1,16 @@
+CATEGORIES: {
+    kills: "KILLS",
+    killsWithGuns: "KILLS_WITH_GUN",
+    killsInSingleGame: "KILLS_IN_SINGLE_GAME",
+    streaks: "STREAKS",
+    score: "SCORE",
+    scoreWithGun: "SCORE_WITH_GUN",
+    scoreInSingleGame: "SCORE_IN_SINGLE_GAME",
+    gamesPlayed: "GAMES_PLAYED",
+    wins: "WINS",
+    headshots: "HEADSHOTS",
+    headshotsWithGun: "HEADSHOTS_WITH_GUN",
+    headshotsInSingleGame: "HEADSHOTS_IN_SINGLE_GAME",
+    solo: "SOLO",
+    team: "TEAM"
+}
