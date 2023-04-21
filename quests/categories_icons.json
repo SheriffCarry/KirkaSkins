@@ -1,0 +1,16 @@
+{
+    KILLS: "skull",
+    KILLS_WITH_GUN: "skull",
+    KILLS_IN_SINGLE_GAME: "skull",
+    STREAKS: "fire",
+    SCORE: "plus-one",
+    SCORE_WITH_GUN: "plus-one",
+    SCORE_IN_SINGLE_GAME: "plus-one",
+    GAMES_PLAYED: "skull",
+    WINS: "skull",
+    HEADSHOTS: "skull",
+    HEADSHOTS_WITH_GUN: "skull",
+    HEADSHOTS_IN_SINGLE_GAME: "skull",
+    SOLO: "skull",
+    TEAM: "skull"
+}
