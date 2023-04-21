@@ -1,0 +1,16 @@
+{
+    kills: "fire",
+    killsWithGuns: "fire",
+    killsInSingleGame: "fire",
+    streaks: "fire",
+    score: "plus-one",
+    scoreWithGun: "plus-one",
+    scoreInSingleGame: "plus-one",
+    gamesPlayed: "fire",
+    wins: "fire",
+    headshots: "knife-head",
+    headshotsWithGun: "knife-head",
+    headshotsInSingleGame: "knife-head",
+    solo: "fire",
+    team: "fire"
+}
