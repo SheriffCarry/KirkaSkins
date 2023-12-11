@@ -1,5 +1,5 @@
 ## Bundle 1
-> Started: ?
+> Started: 25.01.2021
 > 
 > Ended: 20.12.2021
 
