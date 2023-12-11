@@ -66,4 +66,9 @@
 ## Bundle 14 - "Halloween"
 > Started: 31.10.2023
 >
-> Ending: 15.12.2023
+> Ending: 15.01.2024
+
+## Bundle 15 - "Christmas"
+> Started: 10.12.2023
+>
+> Ending: 15.03.2024
