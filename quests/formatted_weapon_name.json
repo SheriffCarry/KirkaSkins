@@ -7,5 +7,7 @@
     m60: "M60",
     shark: "Shark",
     ar9: "AR9",
-    bayonet: "Bayonet"
+    bayonet: "Bayonet",
+    scar: "Scar",
+    tomahawk: "Tomahawk"
 }
