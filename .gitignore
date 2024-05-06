@@ -1,0 +1,7 @@
+# Ignore all .js files
+*.js
+
+# Ignore the node_modules folder
+node_modules/
+package.json
+package-lock.json
