@@ -1,0 +1,748 @@
+{
+    "2": [
+        {
+            "name": "coins",
+            "amount": 300,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "3": [
+        {
+            "name": "diamonds",
+            "amount": 5,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "4": [
+        {
+            "name": "Party",
+            "amount": 1,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Card.png"
+        }
+    ],
+    "5": [
+        {
+            "name": "Wood",
+            "amount": 1,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "6": [
+        {
+            "name": "AR-9",
+            "amount": 1,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/AR-9/AR-9-render.webp"
+        }
+    ],
+    "7": [
+        {
+            "name": "coins",
+            "amount": 500,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "8": [
+        {
+            "name": "Wood",
+            "amount": 2,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "9": [
+        {
+            "name": "Ice",
+            "amount": 1,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "10": [
+        {
+            "name": "diamonds",
+            "amount": 10,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "11": [
+        {
+            "name": "Cold",
+            "amount": 1,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Card.png"
+        }
+    ],
+    "12": [
+        {
+            "name": "Soldiers",
+            "amount": 1,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Card.png"
+        }
+    ],
+    "13": [
+        {
+            "name": "Wood",
+            "amount": 3,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "14": [
+        {
+            "name": "coins",
+            "amount": 1000,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "15": [
+        {
+            "name": "diamonds",
+            "amount": 15,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "16": [
+        {
+            "name": "Ice",
+            "amount": 2,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "17": [
+        {
+            "name": "Golden",
+            "amount": 1,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "18": [
+        {
+            "name": "coins",
+            "amount": 1250,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "19": [
+        {
+            "name": "Wood",
+            "amount": 3,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "20": [
+        {
+            "name": "coins",
+            "amount": 500,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "21": [
+        {
+            "name": "diamonds",
+            "amount": 20,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "22": [
+        {
+            "name": "Ice",
+            "amount": 3,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "23": [
+        {
+            "name": "SCAR",
+            "amount": 1,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/SCAR/SCAR-render.webp"
+        }
+    ],
+    "24": [
+        {
+            "name": "coins",
+            "amount": 2000,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "25": [
+        {
+            "name": "Wood",
+            "amount": 5,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "26": [
+        {
+            "name": "Ice",
+            "amount": 4,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "27": [
+        {
+            "name": "Girls",
+            "amount": 3,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Card.png"
+        }
+    ],
+    "28": [
+        {
+            "name": "Golden",
+            "amount": 2,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "29": [
+        {
+            "name": "diamonds",
+            "amount": 25,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "30": [
+        {
+            "name": "Wood",
+            "amount": 5,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "31": [
+        {
+            "name": "coins",
+            "amount": 3000,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "32": [
+        {
+            "name": "Ice",
+            "amount": 5,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "33": [
+        {
+            "name": "Party",
+            "amount": 3,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Card.png"
+        }
+    ],
+    "34": [
+        {
+            "name": "Golden",
+            "amount": 3,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "35": [
+        {
+            "name": "diamonds",
+            "amount": 30,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "36": [
+        {
+            "name": "coins",
+            "amount": 3500,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "37": [
+        {
+            "name": "Ice",
+            "amount": 5,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "38": [
+        {
+            "name": "Wood",
+            "amount": 7,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "39": [
+        {
+            "name": "Soldiers",
+            "amount": 3,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Card.png"
+        }
+    ],
+    "40": [
+        {
+            "name": "Golden",
+            "amount": 3,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "41": [
+        {
+            "name": "diamonds",
+            "amount": 35,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "42": [
+        {
+            "name": "Ice",
+            "amount": 7,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "43": [
+        {
+            "name": "coins",
+            "amount": 4500,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "44": [
+        {
+            "name": "Wood",
+            "amount": 7,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "45": [
+        {
+            "name": "Golden",
+            "amount": 4,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "46": [
+        {
+            "name": "Girls",
+            "amount": 5,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Card.png"
+        }
+    ],
+    "47": [
+        {
+            "name": "diamonds",
+            "amount": 40,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "48": [
+        {
+            "name": "coins",
+            "amount": 5000,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "49": [
+        {
+            "name": "Cold",
+            "amount": 5,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Card.png"
+        }
+    ],
+    "50": [
+        {
+            "name": "Golden",
+            "amount": 5,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "51": [
+        {
+            "name": "Ice",
+            "amount": 7,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "52": [
+        {
+            "name": "Wood",
+            "amount": 10,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "53": [
+        {
+            "name": "diamonds",
+            "amount": 45,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "54": [
+        {
+            "name": "Party",
+            "amount": 5,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Card.png"
+        }
+    ],
+    "55": [
+        {
+            "name": "coins",
+            "amount": 7000,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "56": [
+        {
+            "name": "Ice",
+            "amount": 10,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "57": [
+        {
+            "name": "Wood",
+            "amount": 15,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "58": [
+        {
+            "name": "Golden",
+            "amount": 7,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "59": [
+        {
+            "name": "diamonds",
+            "amount": 50,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "60": [
+        {
+            "name": "Wood",
+            "amount": 20,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "61": [
+        {
+            "name": "coins",
+            "amount": 10000,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "62": [
+        {
+            "name": "Cold",
+            "amount": 7,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Card.png"
+        }
+    ],
+    "63": [
+        {
+            "name": "Golden",
+            "amount": 10,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "64": [
+        {
+            "name": "Ice",
+            "amount": 15,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "65": [
+        {
+            "name": "diamonds",
+            "amount": 55,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "66": [
+        {
+            "name": "Party",
+            "amount": 10,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Card.png"
+        }
+    ],
+    "67": [
+        {
+            "name": "Wood",
+            "amount": 25,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "68": [
+        {
+            "name": "Ice",
+            "amount": 15,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "69": [
+        {
+            "name": "coins",
+            "amount": 12500,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "70": [
+        {
+            "name": "Golden",
+            "amount": 13,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "71": [
+        {
+            "name": "diamonds",
+            "amount": 60,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "72": [
+        {
+            "name": "Wood",
+            "amount": 30,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "73": [
+        {
+            "name": "coins",
+            "amount": 15000,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "74": [
+        {
+            "name": "Golden",
+            "amount": 15,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "75": [
+        {
+            "name": "Ice",
+            "amount": 20,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "76": [
+        {
+            "name": "Soldiers",
+            "amount": 15,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Card.png"
+        }
+    ],
+    "77": [
+        {
+            "name": "diamonds",
+            "amount": 65,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "78": [
+        {
+            "name": "coins",
+            "amount": 20000,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "79": [
+        {
+            "name": "Ice",
+            "amount": 25,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "80": [
+        {
+            "name": "Tomahawk",
+            "amount": 1,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Tomahawk/Tomahawk-render.webp"
+        }
+    ],
+    "81": [
+        {
+            "name": "Wood",
+            "amount": 50,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "82": [
+        {
+            "name": "Golden",
+            "amount": 20,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "83": [
+        {
+            "name": "diamonds",
+            "amount": 70,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "84": [
+        {
+            "name": "coins",
+            "amount": 50000,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/coins-2.webp"
+        }
+    ],
+    "85": [
+        {
+            "name": "Ice",
+            "amount": 65,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Ice_large.webp"
+        }
+    ],
+    "86": [
+        {
+            "name": "Wood",
+            "amount": 75,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Wood_large.webp"
+        }
+    ],
+    "87": [
+        {
+            "name": "Golden",
+            "amount": 50,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "88": [
+        {
+            "name": "Girls",
+            "amount": 25,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Card.png"
+        }
+    ],
+    "89": [
+        {
+            "name": "diamonds",
+            "amount": 75,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "90": [
+        {
+            "name": "Golden",
+            "amount": 100,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "91": [
+        {
+            "name": "Golden",
+            "amount": 120,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "92": [
+        {
+            "name": "Golden",
+            "amount": 150,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "93": [
+        {
+            "name": "Golden",
+            "amount": 180,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "94": [
+        {
+            "name": "Golden",
+            "amount": 200,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "95": [
+        {
+            "name": "Golden",
+            "amount": 250,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Chest/Golden_large.webp"
+        }
+    ],
+    "96": [
+        {
+            "name": "diamonds",
+            "amount": 100,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "97": [
+        {
+            "name": "diamonds",
+            "amount": 120,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "98": [
+        {
+            "name": "diamonds",
+            "amount": 150,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "99": [
+        {
+            "name": "diamonds",
+            "amount": 200,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "100": [
+        {
+            "name": "diamonds",
+            "amount": 250,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "101": [
+        {
+            "name": "diamonds",
+            "amount": 500,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "102": [
+        {
+            "name": "diamonds",
+            "amount": 1000,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "103": [
+        {
+            "name": "diamonds",
+            "amount": 1500,
+            "img": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/refs/heads/main/Currency/diamond.webp"
+        }
+    ],
+    "104": [
+        {
+            "name": "",
+            "amount": 0,
+            "img": false,
+            "hidden": true
+        }
+    ],
+    "105": [
+        {
+            "name": "",
+            "amount": 0,
+            "img": false,
+            "hidden": true
+        }
+    ],
+    "106": [
+        {
+            "name": "",
+            "amount": 0,
+            "img": false,
+            "hidden": true
+        }
+    ],
+    "107": [
+        {
+            "name": "",
+            "amount": 0,
+            "img": false,
+            "hidden": true
+        }
+    ]
+}
