@@ -1,15 +1,51 @@
 {
-    "Player model": "https://kirka.io/assets/glb/4bb3a8d88abff1e7bb7ce34b87c64494.glb",
-    "LAR": "https://kirka.io/assets/glb/f5575cfe08a74b6d747a0cef44d3629b.glb",
-    "VITA": "https://kirka.io/assets/glb/0abe2f6dc5fd42886656add09d385342.glb",
-    "Shark": "https://kirka.io/assets/glb/f625b5fedc1481a49d36748e7b19b943.glb",
-    "Revolver": "https://kirka.io/assets/glb/0f0dde5522f5310e5c79dc1590a6815f.glb",
-    "Tomahawk": "https://kirka.io/assets/glb/7018de07dd76dcdf6721a13b1b5bec61.glb",
-    "Arms": "https://kirka.io/assets/glb/ae1db540a529ec318de726647102b250.glb",
-    "Weatie": "https://kirka.io/assets/glb/db52ec075748c1ccec5521b596a5a404.glb",
-    "Mac-10": "https://kirka.io/assets/glb/30dd1dc408feacef1cb8f7e28608c220.glb",
-    "M60": "https://kirka.io/assets/glb/fe77594ae4a78d6d85e28f834d0ff6f4.glb",
-    "SCAR": "https://kirka.io/assets/glb/e54104dfacc75e07f3d120123fe527a3.glb",
-    "AR-9": "https://kirka.io/assets/glb/a00e8c95e8e6a554ba7722386fed9513.glb",
-    "Bayonet": "https://kirka.io/assets/glb/72ff033c69c7ac43d6252b8bb14e8d5e.glb"
+    "_comment": "I won't make the playermodel here for easy creation of wallhack models",
+    "LAR": {
+        "urL": "https://github.com/SheriffCarry/KirkaSkins/raw/main/LAR/other/LAR.glb",
+        "name": "f5575cfe08a74b6d747a0cef44d3629b.glb"
+    },
+    "VITA": {
+        "urL": "https://github.com/SheriffCarry/KirkaSkins/raw/main/VITA/other/VITA.glb",
+        "name": "0abe2f6dc5fd42886656add09d385342.glb"
+    },
+    "Shark": {
+        "urL": "https://github.com/SheriffCarry/KirkaSkins/raw/main/Shark/other/Shark.glb",
+        "name": "f625b5fedc1481a49d36748e7b19b943.glb"
+    },
+    "Revolver": {
+        "urL": "https://github.com/SheriffCarry/KirkaSkins/raw/main/Revolver/other/Revolver.glb",
+        "name": "0f0dde5522f5310e5c79dc1590a6815f.glb"
+    },
+    "Tomahawk": {
+        "urL": "https://github.com/SheriffCarry/KirkaSkins/raw/main/Tomahawk/other/Tomahawk.glb",
+        "name": "7018de07dd76dcdf6721a13b1b5bec61.glb"
+    },
+    "Arms": {
+        "urL": "https://github.com/SheriffCarry/KirkaSkins/raw/main/Characters/other/Arms.glb",
+        "name": "ae1db540a529ec318de726647102b250.glb"
+    },
+    "Weatie": {
+        "urL": "https://github.com/SheriffCarry/KirkaSkins/raw/main/Weatie/other/Weatie.glb",
+        "name": "db52ec075748c1ccec5521b596a5a404.glb"
+    },
+    "MAC-10": {
+        "urL": "https://github.com/SheriffCarry/KirkaSkins/raw/main/MAC-10/other/MAC-10.glb",
+        "name": "30dd1dc408feacef1cb8f7e28608c220.glb"
+    },
+    "M60": {
+        "urL": "https://github.com/SheriffCarry/KirkaSkins/raw/main/M60/other/M60.glb",
+        "name": "fe77594ae4a78d6d85e28f834d0ff6f4.glb"
+    },
+    "SCAR": {
+        "urL": "https://github.com/SheriffCarry/KirkaSkins/raw/main/SCAR/other/SCAR.glb",
+        "name": "e54104dfacc75e07f3d120123fe527a3.glb"
+    },
+    "AR-9": {
+        "urL": "https://github.com/SheriffCarry/KirkaSkins/raw/main/AR-9/other/AR-9.glb",
+        "name": "a00e8c95e8e6a554ba7722386fed9513.glb"
+    },
+    "Bayonet": {
+        "urL": "https://github.com/SheriffCarry/KirkaSkins/raw/main/Bayonet/other/Bayonet.glb",
+        "name": "72ff033c69c7ac43d6252b8bb14e8d5e.glb"
+    }
 }
