@@ -1,17 +1,10 @@
-## COMPLETED SKINS
-- AR-9
-- Bayonet
-- Characters
-- LAR
-- M60
-- MAC-10
-- SCAR
-- Shark
-- REVOLVER
-- Tomahawk
-- VITA
-- Weatie
-- undefined
+Skins that miss a render:
+Mona
+Fruchtebrot
+Sanguinary
+Melon
 
-DM Me when you find something missing
-I think I have all tho
+Microwaved skins:
+HWwNwWmMnunt (HauntHearts / HeartsHaunt) -> I assumed it is HauntHearts
+Sky WwwWmMnNer (Sky Lighter) -> I assumed it is Sky Lighter
+MWwNWnmMw (Mangle / Gorejames / Gore) -> I assumed it is Mangle
