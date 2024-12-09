@@ -9,6 +9,9 @@
 - Sky WwwWmMnNer (Sky Lighter) -> I assumed it is Sky Lighter
 - MWwNWnmMw (Mangle / Gorejames / Gore) -> I assumed it is Mangle
 
+### Broken texture:
+- Fanny (it has 42x42px it should be 64x64px)
+
 ### Double named skins:
 | Skinname | Type Released | Type Unreleased |
 |----------|---------------|-----------------|
