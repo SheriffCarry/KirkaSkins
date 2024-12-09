@@ -1,0 +1,62 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Kirka.io is a multiplayer FPS in the browser. No download required to play this io game."><meta http-equiv="origin-trial" content="A57A5ySg1iWSHub5dxQHW8DjKwrWiRG30net+rpKGMSlNWJig5sccVG8cYAf5iVlQ1QnSEnoz3Q9H/ZIRhOdrQgAAACNeyJvcmlnaW4iOiJodHRwczovL2tpcmthLmlvOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmciLCJleHBpcnkiOjE3MjU0MDc5OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><link rel="icon" href="/favicon.ico"><title>Kirka.io</title><script>var WwWMwNnm
+      
+      // var WwWMwNnm
+      
+      // const REM_CACHE = new Map();
+      
+      // var WwWMwNnm
+
+      window.inIframe = window['self'] !== window['top']
+      window.inCrazygames = false
+      if (window.inIframe)
+      {
+        window.iframeParentUrl = (window['location']['ancestorOrigins'] && window['location']['ancestorOrigins'][0]) || document['referrer']
+        window.inCrazygames = window.iframeParentUrl.includes('crazygames') || window.iframeParentUrl.includes('1001juegos.com')
+      
+        //force other portals to play the crazygames version
+        if (!window.inCrazygames)
+        {
+          try {
+            // console.log('redirect')
+            window.location.href = 'https://games.crazygames.com/en_US/kirka-io/index.html';
+          } catch (error) {
+            console.log('cant redirect')
+          }
+        }
+      }
+      // window.inCrazygames = true // for testing
+      
+      if (window.inCrazygames)
+      {
+        // document.write('<script src="https://sdk.crazygames.com/crazygames-sdk-v1.js"><\/script>')
+        console.log('load crazysdk');
+        document.write('<script src="https://sdk.crazygames.com/crazygames-sdk-v2.js"><\/script>')
+      }
+      else
+      {
+        // if (location.hostname !== "localhost")
+        // {
+          // document.write(`
+          // <script type="text/javascript" src="//cdn.vlitag.com/w/790d512e-9589-466d-b800-ddb8133c1e1b.js" async defer><\/script>
+          // <script>var vitag = vitag || {};vitag.gdprShowConsentToolButton = false;<\/script>
+          // <script type="text/javascript" src="//cdn.vlitag.com/ata/adv/790d512e-9589-466d-b800-ddb8133c1e1b.js" async defer><\/script>
+          // `)
+        
+          document.write(`
+          <script>
+          window.aiptag = window.aiptag || {cmd: []};
+          aiptag.cmd.display = aiptag.cmd.display || [];
+          aiptag.cmd.player = aiptag.cmd.player || [];
+        
+          //CMP tool settings
+          aiptag.cmp = {
+            show: false,
+            position: "centered",  //centered, bottom
+            button: true,
+            buttonText: "Privacy settings",
+            buttonPosition: "bottom-left" //bottom-left, bottom-right, top-left, top-right
+          }
+          <\/script>
+          <script src="//api.adinplay.com/libs/aiptag/pub/KRK/kirka.io/tag.min.js"><\/script>`)
+        // }
+      }</script><link href="/assets/css/chunk-016fcacc.1732069117071.css" rel="prefetch"><link href="/assets/css/chunk-032c0c38.1732069117690.css" rel="prefetch"><link href="/assets/css/chunk-081b1c2d.1732069118664.css" rel="prefetch"><link href="/assets/css/chunk-09086baf.1732069119659.css" rel="prefetch"><link href="/assets/css/chunk-1f99b10e.1732069120601.css" rel="prefetch"><link href="/assets/css/chunk-31aced4b.1732069121548.css" rel="prefetch"><link href="/assets/css/chunk-38915a26.1732069122498.css" rel="prefetch"><link href="/assets/css/chunk-48d10736.1732069123494.css" rel="prefetch"><link href="/assets/css/chunk-4d862bca.1732069124463.css" rel="prefetch"><link href="/assets/css/chunk-4ff43093.1732069125436.css" rel="prefetch"><link href="/assets/css/chunk-50acbc28.1732069126399.css" rel="prefetch"><link href="/assets/css/chunk-550ab12e.1732069127358.css" rel="prefetch"><link href="/assets/css/chunk-59c61e44.1732069128306.css" rel="prefetch"><link href="/assets/css/chunk-5cd114ce.1732069129266.css" rel="prefetch"><link href="/assets/css/chunk-6881f97e.1732069130221.css" rel="prefetch"><link href="/assets/css/chunk-6e664348.1732069131179.css" rel="prefetch"><link href="/assets/css/chunk-7b09dc68.1732069132149.css" rel="prefetch"><link href="/assets/css/chunk-8327d18c.1732069133102.css" rel="prefetch"><link href="/assets/css/chunk-865c122c.1732069134054.css" rel="prefetch"><link href="/assets/css/chunk-9c5fe396.1732069134987.css" rel="prefetch"><link href="/assets/css/chunk-ae5bc4f4.1732069135931.css" rel="prefetch"><link href="/assets/css/chunk-d1ff2506.1732069136864.css" rel="prefetch"><link href="/assets/js/chunk-016fcacc.1732069137797.js" rel="prefetch"><link href="/assets/js/chunk-032c0c38.1732069138787.js" rel="prefetch"><link href="/assets/js/chunk-081b1c2d.1732069139744.js" rel="prefetch"><link href="/assets/js/chunk-09086baf.1732069140667.js" rel="prefetch"><link href="/assets/js/chunk-1f99b10e.1732069141636.js" rel="prefetch"><link href="/assets/js/chunk-2d0b9093.1732069142577.js" rel="prefetch"><link href="/assets/js/chunk-2d20ec5c.1732069143536.js" rel="prefetch"><link href="/assets/js/chunk-2d20fe31.1732069144480.js" rel="prefetch"><link href="/assets/js/chunk-31aced4b.1732069145465.js" rel="prefetch"><link href="/assets/js/chunk-38915a26.1732069146423.js" rel="prefetch"><link href="/assets/js/chunk-48d10736.1732069147388.js" rel="prefetch"><link href="/assets/js/chunk-4d862bca.1732069148331.js" rel="prefetch"><link href="/assets/js/chunk-4ff43093.1732069149283.js" rel="prefetch"><link href="/assets/js/chunk-50acbc28.1732069150237.js" rel="prefetch"><link href="/assets/js/chunk-550ab12e.1732069151169.js" rel="prefetch"><link href="/assets/js/chunk-59c61e44.1732069152117.js" rel="prefetch"><link href="/assets/js/chunk-5cd114ce.1732069153070.js" rel="prefetch"><link href="/assets/js/chunk-6881f97e.1732069154050.js" rel="prefetch"><link href="/assets/js/chunk-6e664348.1732069155034.js" rel="prefetch"><link href="/assets/js/chunk-7b09dc68.1732069156000.js" rel="prefetch"><link href="/assets/js/chunk-8327d18c.1732069156936.js" rel="prefetch"><link href="/assets/js/chunk-865c122c.1732069157899.js" rel="prefetch"><link href="/assets/js/chunk-9c5fe396.1732069158854.js" rel="prefetch"><link href="/assets/js/chunk-ae5bc4f4.1732069159789.js" rel="prefetch"><link href="/assets/js/chunk-d1ff2506.1732069160748.js" rel="prefetch"><link href="/assets/css/app.d0488480.css" rel="preload" as="style"><link href="/assets/js/app.da1393ed.js" rel="modulepreload" as="script"><link href="/assets/css/app.d0488480.css" rel="stylesheet"></head><body><noscript><strong>Enable javascript in your browser settings then reload this page to play Kirka</strong></noscript><div id="app"></div><canvas id="game" style="width: 100vw; height: 100vh;"></canvas><div id="labels"></div><div id="overlay"><div><span id="version"></span></div><div><span id="triangles"></span></div><div><span id="fpsAvg"></span></div><div><span id="fps"></span></div><div><span id="ping"></span></div></div><div id="preroll"></div><script type="module" src="/assets/js/app.da1393ed.js"></script><script>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()},!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script><script src="/assets/js/app-legacy.cb305c3c.js" nomodule></script></body></html>
