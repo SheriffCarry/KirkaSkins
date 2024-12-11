@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol viewBox="0 0 11 10" id="__accept__">
+      <path d="M9.05 0l1.34.94-5.81 8.38H3.24L0 4.78l1.34-1.25 2.57 2.4L9.05 0z"/>
+    </symbol>
+  </defs>
+  <use href="#__accept__"/>
+</svg>

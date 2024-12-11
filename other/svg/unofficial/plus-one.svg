@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol viewBox="0 0 320 320" id="__plus-one__">
+      <script></script>
+      <g fill="#fff">
+        <path data-original="#000000" d="M128 85.333H85.333v85.334H0v42.666h85.333v85.334H128v-85.334h85.333v-42.666H128zM224 44.373V83.2l53.333-10.667v226.134H320V21.333z" />
+      </g>
+    </symbol>
+  </defs>
+  <use href="#__plus-one__"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol fill="none" viewBox="0 0 9 6" id="__fill-arrow-bottom__">
+      <path d="M4.667 6L8.708.75H.625L4.667 6z" fill="#fff" />
+    </symbol>
+  </defs>
+  <use href="#__fill-arrow-bottom__"/>
+</svg>

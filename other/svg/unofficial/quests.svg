@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol viewBox="0 0 32 32" id="__quests__">
+      <script></script>
+      <path d="M19.79 28.96L29.37 13h-5.59zM10.28 13l4.49 18a2.23 2.23 0 0 0 .36.05h1.74a2.23 2.23 0 0 0 .36-.05l4.49-18zM2.63 13l9.58 15.96L8.22 13zM9.78 11h12.44l.24-.95L19.16 1h-6.32l-3.3 9.05zM7.53 10.24a1 1 0 0 1 0-.58L10.71 1H7.24a3 3 0 0 0-2.69 1.66L1.11 9.55A1 1 0 0 0 2 11h5.72zM30.89 9.55l-3.44-6.89A3 3 0 0 0 24.76 1h-3.47l3.15 8.66a1 1 0 0 1 0 .58l-.19.76H30a1 1 0 0 0 .89-1.45z" fill="#fff" data-original="#000000" />
+    </symbol>
+  </defs>
+  <use href="#__quests__"/>
+</svg>

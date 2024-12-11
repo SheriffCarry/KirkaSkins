@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol viewBox="0 0 57 58" id="__scale__">
+      <g clip-path="url(#__scale___clip0)">
+        <path d="M51.48 48.093L39.54 36.154l-3.886 3.887 11.94 11.939h-9.279v5.52H57V38.815h-5.52v9.279zM39.54 21.858L51.48 9.907v9.278H57V.5H38.315v5.52h9.279l-11.94 11.94 3.887 3.898zM17.46 36.154L5.52 48.094v-9.279H0V57.5h18.685v-5.52H9.407l11.95-11.94-3.898-3.886zM18.685 6.02V.5H0v18.685h5.52V9.907l11.94 11.95 3.898-3.898L9.407 6.02h9.278z" />
+      </g>
+      <defs></defs>
+    </symbol>
+    <clipPath id="__scale___clip0">
+      <path fill="#fff" transform="translate(0 .5)" d="M0 0h57v57H0z" />
+    </clipPath>
+  </defs>
+  <use href="#__scale__"/>
+</svg>

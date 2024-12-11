@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol viewBox="0 0 31 59" id="__arrow-left__">
+      <path d="M25.202 58.96a4.2 4.2 0 0 1-3.282-1.557L1.594 32.153a4.21 4.21 0 0 1 0-5.345l21.041-25.25a4.214 4.214 0 0 1 6.481 5.387L10.305 29.502l18.18 22.556a4.208 4.208 0 0 1-3.283 6.902" />
+    </symbol>
+  </defs>
+  <use href="#__arrow-left__"/>
+</svg>

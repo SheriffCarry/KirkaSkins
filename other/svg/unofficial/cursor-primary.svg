@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol fill="none" viewBox="0 0 12 13" id="__cursor-primary__">
+      <path d="M0 9.498C1.973 6.437 3.396 2.265 6 0c2.687 2.234 3.756 6.289 6 9.498C12 9.498 8.796 13 6 13c-2.727 0-6-3.502-6-3.502z" fill="#FFB914" />
+    </symbol>
+  </defs>
+  <use href="#__cursor-primary__"/>
+</svg>

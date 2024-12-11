@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol viewBox="0 0 64 64" id="__friends__">
+      <script></script>
+      <g id="__friends___contact">
+        <ellipse cx="18" cy="32" rx="9.82" ry="9.81" fill="#fff" data-original="#000000" />
+        <path d="M34 58.48a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2c0-7.97 6.15-14.5 14.01-14.84 1.32-.06 2.66-.06 3.98 0C27.85 43.98 34 50.51 34 58.48zM62 39.81a2 2 0 0 1-2 2H32a2 2 0 0 1-2-2c0-7.98 6.15-14.5 14.01-14.85 1.32-.06 2.66-.06 3.98 0 3.93.18 7.43 1.89 9.95 4.56C60.46 32.2 62 35.82 62 39.81z" fill="#fff" data-original="#000000" />
+        <ellipse cx="46" cy="13.33" rx="9.82" ry="9.81" fill="#fff" data-original="#000000" />
+      </g>
+    </symbol>
+  </defs>
+  <use href="#__friends__"/>
+</svg>

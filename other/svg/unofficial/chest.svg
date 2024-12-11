@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol viewBox="0 0 512 512" id="__chest__">
+      <defs id="__chest___defs30">
+        <script id="__chest___script2"></script>
+      </defs>
+      <path id="__chest___rect857" fill="#948f6b" stroke="#ffce54" stroke-width="1.038" stroke-linecap="square" stroke-linejoin="round" d="M2502.582 940.506h608.979v519.228h-608.979z" />
+      <path d="M512 75H0V45C0 20.147 20.147 0 45 0h422c24.853 0 45 20.147 45 45z" fill="#fff" data-original="#000000" id="__chest___path4" />
+      <path d="M25.679 366.63H0v121.142C0 501.152 11.497 512 25.679 512h128.395v-24.228c0-66.798-57.598-121.143-128.395-121.143z" fill="#fff" data-original="#000000" id="__chest___path6" stroke-width="1.663" />
+      <path d="M347.842 488.877V512H484.64c15.11 0 27.36-10.353 27.36-23.123V373.259h-27.36c-75.43 0-136.798 51.866-136.798 115.618z" fill="#fff" data-original="#000000" id="__chest___path8" stroke-width="1.677" />
+      <path d="M301 352v-90h-90v90zm-45-60c8.284 0 15 6.716 15 15 0 8.284-6.716 15-15 15-8.284 0-15-6.716-15-15 0-8.284 6.716-15 15-15z" fill="#fff" data-original="#000000" id="__chest___path10" />
+      <g id="__chest___g20">
+        <g id="__chest___g16">
+          <path d="M44.597 232h422.806L512 105H0z" fill="#fff" data-original="#000000" id="__chest___path14" />
+        </g>
+        <path d="M331 367c0 8.284-6.716 15-15 15H196c-8.284 0-15-6.716-15-15V262H15c-8.284 0-15 6.716-15 15v115h15c57.99 0 105 47.01 105 105v15h272v-15c0-57.99 47.01-105 105-105h15V277c0-8.284-6.716-15-15-15H331z" fill="#fff" data-original="#000000" id="__chest___path18" />
+      </g>
+    </symbol>
+  </defs>
+  <use href="#__chest__"/>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol fill="none" viewBox="0 0 1013 416" id="__lose-screen-els__">
+      <g filter="url(#__lose-screen-els___filter0_d)">
+        <circle cx="41" cy="35" r="35" fill="#E24F4F" />
+      </g>
+      <g filter="url(#__lose-screen-els___filter1_d)">
+        <circle cx="991" cy="133" r="19" fill="#E24F4F" />
+      </g>
+      <g filter="url(#__lose-screen-els___filter2_d)">
+        <circle cx="215.5" cy="299.5" r="14.5" fill="#E24F4F" />
+      </g>
+      <g filter="url(#__lose-screen-els___filter3_d)">
+        <circle cx="755.5" cy="93.5" r="14.5" fill="#E24F4F" />
+      </g>
+      <g filter="url(#__lose-screen-els___filter4_d)">
+        <circle cx="863" cy="369.5" r="36" fill="#E24F4F" />
+      </g>
+      <defs>
+        <filter id="__lose-screen-els___filter0_d" x=".909" y="0" width="80.182" height="80.182" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+          <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix>
+          <feOffset dy="5.091"></feOffset>
+          <feGaussianBlur stdDeviation="2.545"></feGaussianBlur>
+          <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+          <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"></feBlend>
+          <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"></feBlend>
+        </filter>
+        <filter id="__lose-screen-els___filter1_d" x="969.236" y="114" width="43.527" height="43.527" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+          <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix>
+          <feOffset dy="2.764"></feOffset>
+          <feGaussianBlur stdDeviation="1.382"></feGaussianBlur>
+          <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+          <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"></feBlend>
+          <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"></feBlend>
+        </filter>
+        <filter id="__lose-screen-els___filter2_d" x="198.891" y="285" width="33.218" height="33.218" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+          <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix>
+          <feOffset dy="2.109"></feOffset>
+          <feGaussianBlur stdDeviation="1.055"></feGaussianBlur>
+          <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+          <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"></feBlend>
+          <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"></feBlend>
+        </filter>
+        <filter id="__lose-screen-els___filter3_d" x="738.891" y="79" width="33.218" height="33.218" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+          <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix>
+          <feOffset dy="2.109"></feOffset>
+          <feGaussianBlur stdDeviation="1.055"></feGaussianBlur>
+          <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+          <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"></feBlend>
+          <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"></feBlend>
+        </filter>
+        <filter id="__lose-screen-els___filter4_d" x="821.764" y="333.5" width="82.473" height="82.473" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+          <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix>
+          <feOffset dy="5.236"></feOffset>
+          <feGaussianBlur stdDeviation="2.618"></feGaussianBlur>
+          <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix>
+          <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"></feBlend>
+          <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"></feBlend>
+        </filter>
+      </defs>
+    </symbol>
+  </defs>
+  <use href="#__lose-screen-els__"/>
+</svg>

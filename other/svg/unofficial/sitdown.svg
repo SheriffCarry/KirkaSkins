@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol fill="none" viewBox="0 0 22 20" id="__sitdown__">
+      <g opacity=".75" stroke="#fff" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M1.998 9.875l9 9 9-9" />
+        <path d="M1.998 2l9 9 9-9" />
+      </g>
+    </symbol>
+  </defs>
+  <use href="#__sitdown__"/>
+</svg>

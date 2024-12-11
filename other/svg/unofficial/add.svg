@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol fill="none" viewBox="0 0 20 20" id="__add__">
+      <path d="M11.25 8.75V0h-2.5v8.75H0v2.5h8.75V20h2.5v-8.75H20v-2.5h-8.75z" fill="#EAEAEA"/>
+    </symbol>
+  </defs>
+  <use href="#__add__"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol fill="none" viewBox="0 0 35 35" id="__people__">
+      <g clip-path="url(#__people___clip0)">
+        <g clip-path="url(#__people___clip1)" fill="#2C3758">
+          <path d="M16.75 32.5s-2.25 0-2.25-2.25 2.25-9 11.25-9S37 28 37 30.25s-2.25 2.25-2.25 2.25h-18zm9-13.5a6.75 6.75 0 1 0 0-13.5 6.75 6.75 0 0 0 0 13.5z" />
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M12.736 32.5a5.035 5.035 0 0 1-.486-2.25c0-3.049 1.53-6.188 4.356-8.37a14.23 14.23 0 0 0-4.356-.63c-9 0-11.25 6.75-11.25 9s2.25 2.25 2.25 2.25h9.486z" />
+          <path d="M11.125 19a5.625 5.625 0 1 0 0-11.25 5.625 5.625 0 0 0 0 11.25z" />
+        </g>
+        <path d="M15.313 30.625s-2.188 0-2.188-2.188c0-2.187 2.188-8.75 10.938-8.75S35 26.25 35 28.438c0 2.188-2.188 2.188-2.188 2.188h-17.5zm8.75-13.125a6.563 6.563 0 1 0 0-13.125 6.563 6.563 0 0 0 0 13.125z" fill="#fff" />
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M11.41 30.625a4.896 4.896 0 0 1-.473-2.188c0-2.964 1.488-6.015 4.236-8.137-1.372-.423-2.8-.63-4.236-.613C2.188 19.688 0 26.25 0 28.438c0 2.188 2.188 2.188 2.188 2.188h9.222z" fill="#fff" />
+        <path d="M9.844 17.5a5.468 5.468 0 1 0 0-10.937 5.468 5.468 0 0 0 0 10.937z" fill="#fff" />
+      </g>
+      <defs></defs>
+    </symbol>
+    <clipPath id="__people___clip0">
+      <path fill="#fff" d="M0 0h35v35H0z" />
+    </clipPath>
+    <clipPath id="__people___clip1">
+      <path fill="#fff" transform="translate(1 1)" d="M0 0h36v36H0z" />
+    </clipPath>
+  </defs>
+  <use href="#__people__"/>
+</svg>

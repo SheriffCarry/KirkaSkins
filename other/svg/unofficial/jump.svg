@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <symbol fill="none" viewBox="0 0 22 20" id="__jump__">
+      <path d="M2 11l9-9 9 9" stroke="#fff" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M2 18.875l9-9 9 9" stroke="#fff" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" />
+    </symbol>
+  </defs>
+  <use href="#__jump__"/>
+</svg>
