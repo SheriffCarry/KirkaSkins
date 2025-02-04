@@ -6,8 +6,8 @@
 
 ### Microwaved skins:
 - HWwNwWmMnunt (HauntHearts / HeartsHaunt) -> I assumed it is HauntHearts
-- Sky WwwWmMnNer (Sky Lighter) -> I assumed it is Sky Lighter
-- MWwNWnmMw (Mangle / Gorejames / Gore) -> I assumed it is Mangle
+- Sky WwwWmMnNer (Sky Lighter) -> I assumed it is Sky Lighter (confirmed by Globalchat to be correct)
+- MWwNWnmMw (Mangle / Gorejames / Gore) -> I assumed it is Mangle (confirmed by Globalchat to be correct)
 
 ### Broken texture:
 - Fanny (it has 42x42px it should be 64x64px)
