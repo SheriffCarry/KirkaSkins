@@ -3,11 +3,14 @@
 - Fruchtebrot
 - Sanguinary
 - Melon
+- Gem Stone
+- Dark Ocean
 
 ### Microwaved skins:
-- HWwNwWmMnunt (HauntHearts / HeartsHaunt) -> I assumed it is HauntHearts
-- Sky WwwWmMnNer (Sky Lighter) -> I assumed it is Sky Lighter (confirmed by Globalchat to be correct)
-- MWwNWnmMw (Mangle / Gorejames / Gore) -> I assumed it is Mangle (confirmed by Globalchat to be correct)
+- HWwNWwmunt (HauntHearts / HeartsHaunt) -> I assumed it is HauntHearts
+- Sky WwWmMner (Sky Lighter) -> I assumed it is Sky Lighter (confirmed by Globalchat to be correct)
+- MWwwmNM  (Mangle / Gorejames / Gore) -> I assumed it is Mangle (confirmed by Globalchat to be correct)
+- Gem WwWmnNMw (Gem Stone) -> I assumed it is Gem Stone (confirmed by Globalchat to be correct)
 
 ### Broken texture:
 - Fanny (it has 42x42px it should be 64x64px)
