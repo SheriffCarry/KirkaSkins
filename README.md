@@ -7,7 +7,7 @@
 - Dark Ocean
 
 ### Microwaved skins:
-- HWwNWwmunt (HauntHearts / HeartsHaunt) -> I assumed it is HauntHearts
+- HWwNWwmunt (HauntHearts / HeartsHaunt) -> I assumed it is Hearthunt (confirmed by Globalchat to be correct)
 - Sky WwWmMner (Sky Lighter) -> I assumed it is Sky Lighter (confirmed by Globalchat to be correct)
 - MWwwmNM  (Mangle / Gorejames / Gore) -> I assumed it is Mangle (confirmed by Globalchat to be correct)
 - Gem WwWmnNMw (Gem Stone) -> I assumed it is Gem Stone (confirmed by Globalchat to be correct)
