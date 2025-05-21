@@ -1,11 +1,3 @@
-### Skins that miss a render:
-- Mona
-- Fruchtebrot
-- Sanguinary
-- Melon
-- Gem Stone
-- Dark Ocean
-
 ### Microwaved skins:
 - HWwNWwmunt (HauntHearts / HeartsHaunt) -> I assumed it is Hearthunt (confirmed by Globalchat to be correct)
 - Sky WwWmMner (Sky Lighter) -> I assumed it is Sky Lighter (confirmed by Globalchat to be correct)
